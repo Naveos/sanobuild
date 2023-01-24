@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(219, 219, 219);
+    font-family: 'Poppins';
+    font-size: 22px;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(54, 126, 235);
+}
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+}
+
+main {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 30px;
+}
+
+section p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.section_blue {
+    background-color: rgb(54, 126, 235);
+}
+
+.main_logo {
+    text-align: center;
+}
+
+.divider {
+    max-width: 10.25rem;
+    border-width: 1rem;
+    border-color: rgb(54, 126, 235);
+}
+
+header li {
+    float: left;
+}
+
+header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+header li a:hover {
+    text-decoration: underline;
+}
