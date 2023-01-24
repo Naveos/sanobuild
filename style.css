@@ -2,6 +2,15 @@
     scroll-behavior: smooth;
 }
 
+.image_portfolio {
+    width : 750px;
+}
+media (max-width: 750px) {
+    .image_portfolio{
+        width: 100%;
+    }
+}
+
 body {
     margin: 0;
     padding: 0;
