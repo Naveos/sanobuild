@@ -6,6 +6,10 @@ body {
     font-size: 22px;
 }
 
+header {
+    position: fixed;
+}
+
 header ul {
     list-style-type: none;
     margin: 0;
