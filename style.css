@@ -3,6 +3,8 @@
 }
 
 .image_portfolio {
+    max-width: 600px;
+    max-height: 600px;
     margin-top: 2%;
     border: none;
     -webkit-transition: all 0.2s;
@@ -27,6 +29,7 @@ body {
 
 header {
     position: fixed;
+    width: 100%;
 }
 
 header ul {
@@ -83,6 +86,7 @@ header li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    letter-spacing: 1mm;
 }
 
 header li a:hover {
