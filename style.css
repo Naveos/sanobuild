@@ -38,6 +38,7 @@ header ul {
     padding: 0;
     overflow: hidden;
     background-color: rgb(54, 126, 235);
+    transition : background-color 0.3s;
 }
 
 h1 {
@@ -90,5 +91,5 @@ header li a {
 }
 
 header li a:hover {
-    text-decoration: underline;
+    background-color : #286bbd;
 }
